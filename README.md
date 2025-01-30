@@ -3,7 +3,7 @@ Welcome to my portfolio! This project showcases my work and skills using a varie
 This portfolio is designed to provide a comprehensive overview of my skills, projects, and professional background. It features a clean and responsive design with interactive elements to engage visitors.
 
 ## Live Demo
-<!-- [Click Here](https://gibrailzaidi.netlify.app) -->
+[Click Here](https://mdrahmanportfolio.netlify.app/)
 
 ## Tech Stact
  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
